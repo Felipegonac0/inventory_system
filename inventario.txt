@@ -1,0 +1,13 @@
+GANSITO----@----11.5----@----4----@----MARINELA
+PALETA PAYASO----@----14.0----@----33----@----RICOLINO
+BUBULUBU----@----5.0----@----37----@----RICOLINO
+COCACOLA----@----16.0----@----7----@----COCACOLA
+BOING DE MANGO----@----8.5----@----7----@----PASCUAL-BOING
+AGUA CIEL----@----7.2----@----16----@----COCACOLA
+DORITOS NACHO----@----15.9----@----60----@----PEPSICO
+CHEETOS FLAMING HOT----@----10.0----@----9----@----PEPSICO
+RANCHERITOS----@----10.0----@----14----@----PEPSICO
+SABRITONES----@----25.5----@----6----@----SABRITAS
+KINDER DELICE----@----12.9----@----20----@----KINDER
+NUTRILECHE 1L----@----17.6----@----16----@----NUTRILECHE
+EMPERADOR----@----13.3----@----0----@----GAMESA
